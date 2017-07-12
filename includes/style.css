@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Russo+One');
+@import url('https://fonts.googleapis.com/css?family=Rubik:400,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+    background-color: rgb(47, 70, 102);
+}
+div {
+    background-color: #FFDFAA;
+    padding: 6%;
+    font-size: 24px;
+    color: rgb(47, 70, 102);
+    font-family: "Rubik";
+    font-weight: 600;
+}
+.counter {
+    position:absolute;
+    left: 10px;
+    bottom: 5%;
+    font-family: "Rubik";
+    text-align: center;
+    width: 100%;
+    color: #FFDFAA;
+}
+label {
+    display: block;
+    padding: 10px;
+    font-weight: 600;
+    padding-left: 25%;
+}
+button {
+    width: 100px;
+    font-size: 24px;
+    background-color: rgb(47, 70, 102);
+    color: #FFDFAA;
+    margin-left: 64%;
+    border-radius: 29%;
+}
