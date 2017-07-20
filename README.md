@@ -1,4 +1,4 @@
-# Ticked Generator (PDF Generator)
+# Ticket Generator (PDF Generator)
 
 This is form for generating airline tickets in PDF with visit counter on the page.<br />
 
